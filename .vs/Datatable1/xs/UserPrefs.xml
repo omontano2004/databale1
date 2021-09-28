@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{B973E048-0265-4413-B347-CE1E21B6DBF2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Datatable1/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datatable1/Views/Personas/Index.cshtml">
     <Files>
-      <File FileName="Datatable1/Controllers/PersonasController.cs" Line="16" Column="2" />
-      <File FileName="Datatable1/Views/Personas/Index.cshtml" Line="11" Column="6" />
-      <File FileName="Datatable1/Views/Shared/_Layout.cshtml" Line="25" Column="109" />
+      <File FileName="Datatable1/Views/Shared/_Layout.cshtml" Line="56" Column="19" />
+      <File FileName="Datatable1/Views/Personas/Index.cshtml" Line="32" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,13 +10,14 @@
           <Option id="ShowAllFiles" value="True" />
           <Node name="Datatable1" expanded="True">
             <Node name="Datatable1" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Personas" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
+                <Node name="Personas" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
                 </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
