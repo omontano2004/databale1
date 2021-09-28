@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{B973E048-0265-4413-B347-CE1E21B6DBF2}|Default">
-  <MonoDevelop.Ide.ItemProperties.Datatable1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datatable1/Controllers/PersonasController.cs">
+    <Files>
+      <File FileName="Datatable1/Controllers/PersonasController.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Datatable1" expanded="True">
+            <Node name="Datatable1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PersonasController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Datatable1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
